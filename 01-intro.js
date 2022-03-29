@@ -566,7 +566,7 @@ function peliculas_en() {
 
 peliculas_en();
 
-//Funcion que retorna el arreglo con los enteros desplazados hacía la izquierda
+//Funcion que retorna el arreglo con los enteros desplazados hacía la izquierda, esto según el numero j
 let enteros = [1, 2, 3, 4, 5];
 
 function desplazar(j) {
