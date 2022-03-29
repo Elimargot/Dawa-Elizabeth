@@ -20,7 +20,7 @@ console.log(pi)
 
 //----------------------------------------
 
-let edad = 31;
+let edad = 22;
 
 console.log(edad);
 
@@ -65,8 +65,8 @@ console.log(nombresAlumnos);
 let persona = {
     // clave:valor
     // propiedad: valor
-    nombre: "Osmar",
-    apellido: "Montesinos",
+    nombre: "Elizabeth",
+    apellido: "Mamani",
     edad: 31,
     hobbies: ["Programar", "Escuchar Música", "Ver películas"],
 };
